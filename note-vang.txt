@@ -1,2 +1,5 @@
+
 Ghi chú cá nhân
 Cập nhật ghi chú mới
+Ghi chú cá nhân của Vang
+(Thêm task-vang.md và note-vang.txt lần 1)
